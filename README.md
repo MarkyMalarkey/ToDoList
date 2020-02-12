@@ -6,3 +6,6 @@ index.php (to access the add item page) --> additem.php (to add the item and cal
 
 For deleting a task, the program order is:
 index.php (clicking the delete button passes the title to the process page) --> process.php (actually deletes the item from the database then returns the user to the index)
+
+
+THIS PROGRAM ASSUMES THAT THE LOGIN CREDENTIALS FROM PROJECT 3 IS GOING TO BE THE DEFAULT CREDENTIALS FOR EACH PROJECT THIS SEMESTER.
