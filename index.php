@@ -3,7 +3,7 @@
 /*This is a simple to do list program using PHP and a SQL database.
     Mark Norfolk
     2/12/2020
-    INF 653 VA 
+    INF 653 VB 
 */
 
 
